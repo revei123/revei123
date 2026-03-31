@@ -85,9 +85,4 @@ Creating 3D content using neural networks and automated rendering pipelines.
 - Handle everything from business logic to low-level automation  
 - Quick to ramp up on new domains and technologies  
 
----
 
-Let me know if you'd like me to:
-- Add links to actual repositories
-- Create separate READMEs for each project
-- Adjust the tone (more technical / more business-focused)
